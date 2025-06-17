@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://24thcheesecakerie.com",
+      "permanent": true
+    }
+  ]
+}
